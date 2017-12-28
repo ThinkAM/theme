@@ -1,0 +1,29 @@
+{
+  "name": "nebular-thinkam.net-theme",
+  "version": "2.0.0-rc.5",
+  "description": "@nebular-thinkam.net/theme",
+  "main": "./bundles/theme.umd.js",
+  "module": "./index.js",
+  "typings": "./index.d.ts",
+  "author": "Think A.M. Team",
+  "license": "MIT",
+  "repository": "git+https://github.com/ThinkAM/theme.git",
+  "bugs": {
+    "url": "https://github.com/ThinkAM/nebular/issues"
+  },
+  "homepage": "https://github.com/ThinkAM/nebular#readme",
+  "keywords": [
+    "angular",
+    "typescript",
+    "ng2-admin",
+    "ngx-admin",
+    "theme",
+    "nebular"
+  ],
+  "peerDependencies": {
+    "@angular/common": "^4.0.0",
+    "@angular/core": "^4.0.0",
+    "@angular/router": "^4.0.0",
+    "bootstrap": "^4.0.0-beta.2"
+  }
+}
